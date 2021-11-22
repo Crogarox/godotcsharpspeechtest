@@ -1,0 +1,12 @@
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\bin\Debug\godotcsharpspeechtest.dll
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\bin\Debug\godotcsharpspeechtest.pdb
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\bin\Debug\Plugin.TextToSpeech.dll
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\obj\Debug\godotcsharpspeechtest.csproj.AssemblyReference.cache
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\obj\Debug\godotcsharpspeechtest.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\obj\Debug\godotcsharpspeechtest.AssemblyInfoInputs.cache
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\obj\Debug\godotcsharpspeechtest.AssemblyInfo.cs
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\obj\Debug\godotcsharpspeechtest.csproj.CoreCompileInputs.cache
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\obj\Debug\godotcsharpspeechtest.csproj.CopyComplete
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\obj\Debug\godotcsharpspeechtest.dll
+D:\codes\godotprog\godotcsharpspeechtest\.mono\temp\obj\Debug\godotcsharpspeechtest.pdb
+D:\CODES\GODOTPROG\GODOTCSHARPSPEECHTEST\.mono\temp\bin\Debug\Microsoft.Speech.dll

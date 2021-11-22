@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\codes\\godotprog\\godotcsharpspeechtest\\godotcsharpspeechtest.csproj": {}
+  },
+  "projects": {
+    "D:\\codes\\godotprog\\godotcsharpspeechtest\\godotcsharpspeechtest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\codes\\godotprog\\godotcsharpspeechtest\\godotcsharpspeechtest.csproj",
+        "projectName": "godotcsharpspeechtest",
+        "projectPath": "D:\\codes\\godotprog\\godotcsharpspeechtest\\godotcsharpspeechtest.csproj",
+        "packagesPath": "C:\\Users\\lapgaro\\.nuget\\packages\\",
+        "outputPath": "D:\\CODES\\GODOTPROG\\GODOTCSHARPSPEECHTEST\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\lapgaro\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lapgaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Slions.Microsoft.Speech.11": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Xam.Plugins.TextToSpeech": {
+              "target": "Package",
+              "version": "[4.0.0.7, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\lapgaro\\scoop\\apps\\dotnet-sdk\\current\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

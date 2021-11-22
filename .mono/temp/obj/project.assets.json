@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Slions.Microsoft.Speech.11/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Microsoft.Speech.dll": {}
+        },
+        "runtime": {
+          "lib/Microsoft.Speech.dll": {}
+        }
+      },
+      "Xam.Plugins.TextToSpeech/4.0.0.7": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Plugin.TextToSpeech.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Plugin.TextToSpeech.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slions.Microsoft.Speech.11/1.0.0": {
+      "sha512": "YjXBNeJ757H5A930Wt36ltVrRVQls0MTgZCAoXUqd374UWwklitZHHrveIyxwdlNzKdc9CTO/kx54CwYmXwzJA==",
+      "type": "package",
+      "path": "slions.microsoft.speech.11/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/Microsoft.Speech.dll",
+        "slions.microsoft.speech.11.1.0.0.nupkg.sha512",
+        "slions.microsoft.speech.11.nuspec"
+      ]
+    },
+    "Xam.Plugins.TextToSpeech/4.0.0.7": {
+      "sha512": "XFf3HBQCeFetL8cEEcKkinqZ1d2L3XYQLhj83gPTIsWVsXoOQWKOyjRs9ZmDBuwWwNvVt5wlKHY+zpWXfeJJZw==",
+      "type": "package",
+      "path": "xam.plugins.texttospeech/4.0.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid71/Plugin.TextToSpeech.dll",
+        "lib/monoandroid71/Plugin.TextToSpeech.xml",
+        "lib/netstandard1.0/Plugin.TextToSpeech.dll",
+        "lib/netstandard1.0/Plugin.TextToSpeech.xml",
+        "lib/netstandard2.0/Plugin.TextToSpeech.dll",
+        "lib/netstandard2.0/Plugin.TextToSpeech.xml",
+        "lib/uap10.0.15063/Plugin.TextToSpeech.dll",
+        "lib/uap10.0.15063/Plugin.TextToSpeech.pri",
+        "lib/uap10.0.15063/Plugin.TextToSpeech.xml",
+        "lib/xamarinios10/Plugin.TextToSpeech.dll",
+        "lib/xamarinios10/Plugin.TextToSpeech.xml",
+        "lib/xamarinmac20/Plugin.TextToSpeech.dll",
+        "lib/xamarinmac20/Plugin.TextToSpeech.xml",
+        "lib/xamarintvos10/Plugin.TextToSpeech.dll",
+        "lib/xamarintvos10/Plugin.TextToSpeech.xml",
+        "xam.plugins.texttospeech.4.0.0.7.nupkg.sha512",
+        "xam.plugins.texttospeech.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Slions.Microsoft.Speech.11 >= 1.0.0",
+      "Xam.Plugins.TextToSpeech >= 4.0.0.7"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lapgaro\\.nuget\\packages\\": {},
+    "C:\\Users\\lapgaro\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\codes\\godotprog\\godotcsharpspeechtest\\godotcsharpspeechtest.csproj",
+      "projectName": "godotcsharpspeechtest",
+      "projectPath": "D:\\codes\\godotprog\\godotcsharpspeechtest\\godotcsharpspeechtest.csproj",
+      "packagesPath": "C:\\Users\\lapgaro\\.nuget\\packages\\",
+      "outputPath": "D:\\CODES\\GODOTPROG\\GODOTCSHARPSPEECHTEST\\.mono\\temp\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\lapgaro\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lapgaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "targetAlias": "net472",
+        "dependencies": {
+          "Slions.Microsoft.Speech.11": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
+          "Xam.Plugins.TextToSpeech": {
+            "target": "Package",
+            "version": "[4.0.0.7, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\lapgaro\\scoop\\apps\\dotnet-sdk\\current\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
